@@ -2,5 +2,8 @@
   "dependencies": {
     "create-react-app": "^5.1.0",
     "node": "^23.8.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
